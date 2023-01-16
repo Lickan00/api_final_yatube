@@ -50,10 +50,10 @@ python3 manage.py runserver
 
 ### Эндпоинты и доступные типы запросов
 ```
-Данные об api есть в формате yaml [тут](https://github.com/Lickan00/api_final_yatube/blob/master/yatube_api/static/redoc.yaml)
 ```
-Вы можете его загрузить для чтения напрмер [сюда](https://editor.swagger.io/):
-
+Данные об api есть в формате yaml [тут](https://github.com/Lickan00/api_final_yatube/blob/master/yatube_api/static/redoc.yaml).
+Вы можете его загрузить для чтения напрмер [сюда](https://editor.swagger.io/).
 ### Автор
+```
 ```
 [Бальчугов Дмитрий](https://github.com/Lickan00 "Github page")
