@@ -1,15 +1,15 @@
-##### API Yatube
-```
+# API Yatube
+
 REST API для проекта YaTube
-```
+
 Аунтификация осуществляется посредством JWT-токена.
-```
+
 Аутентифицированный пользователь может создавать/редактировать посты, комментарии.
 Может оформить подписку на других пользователей.
-```
+
 Неаутентифицированный пользователь может получить содержание постов и комментарии к ним.
 
-### Как запустить проект:
+## Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 ```
 git clone https://github.com/Lickan00/api_final_yatube
@@ -48,12 +48,9 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 
-### Эндпоинты и доступные типы запросов
-```
-```
-Данные об api есть в формате yaml [тут](https://github.com/Lickan00/api_final_yatube/blob/master/yatube_api/static/redoc.yaml).
-Вы можете его загрузить для чтения напрмер [сюда](https://editor.swagger.io/).
-### Автор
-```
-```
+## Эндпоинты и доступные типы запросов
+- Данные об api есть в формате yaml [тут](https://github.com/Lickan00/api_final_yatube/blob/master/yatube_api/static/redoc.yaml).
+- Вы можете его загрузить для чтения напрмер [сюда](https://editor.swagger.io/).
+
+## Автор
 [Бальчугов Дмитрий](https://github.com/Lickan00 "Github page")
